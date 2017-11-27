@@ -1,5 +1,6 @@
 // xiexie
 //cnm
+//bill cui is the most handsome chinese
 public class fighterdatabase
 	{
 		private String fighterName;
