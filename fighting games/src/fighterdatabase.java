@@ -1,4 +1,5 @@
 // xiexie
+//cnm
 public class fighterdatabase
 	{
 		private String fighterName;
