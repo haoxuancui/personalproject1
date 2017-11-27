@@ -1,4 +1,4 @@
-
+// xiexie
 public class fighterdatabase
 	{
 		private String fighterName;
